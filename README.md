@@ -88,6 +88,7 @@ npm start
 <img src="https://telegra.ph/file/6cab8a84cf528021dbc34.jpg" />
 </details>
 
+- [Gopay](https://telegra.ph/file/1bef8dcaf4471a4830514.jpg) 
 - [Saweria](https://saweria.co/RADITSESI)
  
 ## Thanks To
