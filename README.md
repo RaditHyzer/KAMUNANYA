@@ -89,3 +89,16 @@ npm start
 </details>
 
 - [Saweria](https://saweria.co/RADITSESI)
+ 
+## Thanks To
+- Allah SWT
+- Nabi Muhammad SAW
+- Orang Tua
+- Keluarga
+- Diri Sendiri
+- Saudara
+- Sahabat
+- Semua Teman
+- Radit Sesi
+- Semua Content Creator Bot
+- My Subscriber
